@@ -1,0 +1,5 @@
+algorithm,dataset,n,median_ms,comparisons,extra_heap_bytes,max_recursion_depth
+AlphaDev sort,random.txt,1000000,75.2418,23275669,0,14
+AlphaDev sort,nearly_sorted.txt,1000000,10.9984,20079518,0,19
+AlphaDev sort,reverse.txt,1000000,9.3749,19724546,0,19
+AlphaDev sort,duplicates.txt,1000000,42.3897,21338536,0,15

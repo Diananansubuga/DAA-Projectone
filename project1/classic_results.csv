@@ -1,0 +1,13 @@
+algorithm,dataset,n,median_ms,comparisons,extra_heap_bytes,max_recursion_depth
+Merge sort,random.txt,1000000,183.907,18674618,4000000,20
+Heap sort,random.txt,1000000,129.732,36793763,0,20
+QuickSort,random.txt,1000000,64.5485,24782485,0,50
+Merge sort,nearly_sorted.txt,1000000,87.9233,16631641,4000000,20
+Heap sort,nearly_sorted.txt,1000000,90.3239,37704570,0,20
+QuickSort,nearly_sorted.txt,1000000,25.7892,25434421,0,81
+Merge sort,reverse.txt,1000000,94.1218,10106055,4000000,20
+Heap sort,reverse.txt,1000000,86.5311,36001058,0,20
+QuickSort,reverse.txt,1000000,21.5957,18586755,0,28
+Merge sort,duplicates.txt,1000000,141.758,18670523,4000000,20
+Heap sort,duplicates.txt,1000000,110.119,36777799,0,20
+QuickSort,duplicates.txt,1000000,254.378,512088967,0,1114
